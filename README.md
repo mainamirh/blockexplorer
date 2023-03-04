@@ -1,5 +1,7 @@
 # Ethereum Block Explorer
 
+This project will show you information about the latest blocks and transactions on the Ethereum mainnet.
+
 ## Getting Started
 
 Clone this project and run `npm install` to download all the project dependencies.
